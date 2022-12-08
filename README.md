@@ -1,7 +1,6 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/wekan/wekan)
-
 # WeKan ® - Open Source kanban
 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/wekan/wekan)
 [![Contributors](https://img.shields.io/github/contributors/wekan/wekan.svg "Contributors")](https://github.com/wekan/wekan/graphs/contributors)
 [![Docker Repository on Quay](https://quay.io/repository/wekan/wekan/status "Docker Repository on Quay")](https://quay.io/repository/wekan/wekan)
 [![Docker Hub container status](https://img.shields.io/docker/build/wekanteam/wekan.svg "Docker Hub container status")](https://hub.docker.com/r/wekanteam/wekan)
@@ -13,21 +12,31 @@
 [![Code analysis at Open Hub](https://img.shields.io/badge/code%20analysis-at%20Open%20Hub-brightgreen.svg "Code analysis at Open Hub")](https://www.openhub.net/p/wekan)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4619/badge)](https://bestpractices.coreinfrastructure.org/projects/4619)
 
-## [Translate WeKan ® at Transifex](https://transifex.com/wekan/wekan)
+## Screenshots
 
-Translations to non-English languages are accepted only at [Transifex](https://transifex.com/wekan/wekan) using webbrowser.
-New English strings of new features can be added as PRs to master branch file wekan/imports/i18n/data/en.i18n.json .
+[![Screenshot of WeKan ®][screenshot_wekan]][roadmap_wekan]
 
-## [WeKan ® feature requests and bugs](https://github.com/wekan/wekan/issues)
+- [More screenshots at Features page](https://github.com/wekan/wekan/wiki/Features)
 
-Please add most of your questions as GitHub issue: [WeKan ® Feature Requests and Bugs](https://github.com/wekan/wekan/issues).
+## Translations
+
+- Translate WeKan ® [at Transifex](https://transifex.com/wekan/wekan)
+
+Translations to non-English languages are accepted only at [Transifex](https://transifex.com/wekan/wekan) using a web browser.
+New English strings of new features can be added as PRs to master branch file wekan/imports/i18n/data/en.i18n.json
+
+## Contribute
+
+- Feature requests and bugs: [Github Issues](https://github.com/wekan/wekan/issues)
+
+- Please add most of your questions as GitHub issues.
 It's better than at chat where details get lost when chat scrolls up.
 
 ## Chat
 
-[Discussions][discussions] - WeKan Community GitHub Discussions, that are not [Feature Requests and Bugs](https://github.com/wekan/wekan/issues).
+- [Discussions][discussions] - WeKan Community GitHub Discussions, that are not Feature Requests and Bugs.
 
-[WeKan IRC FAQ](https://github.com/wekan/wekan/wiki/IRC-FAQ)
+- [WeKan IRC FAQ](https://github.com/wekan/wekan/wiki/IRC-FAQ)
 
 ## Docker: Latest tag has newest release
 
@@ -92,12 +101,6 @@ that by providing one-click installation on various platforms.
 
 We also welcome sponsors for features and bugfixes.
 By working directly with WeKan ® you get the benefit of active maintenance and new features added by growing WeKan ® developer community.
-
-## Screenshot
-
-[More screenshots at Features page](https://github.com/wekan/wekan/wiki/Features)
-
-[![Screenshot of WeKan ®][screenshot_wekan]][roadmap_wekan]
 
 ## License
 
